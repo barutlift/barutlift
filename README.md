@@ -12,7 +12,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/barutlift"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="barutlift" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barutlift&show_icons=true&locale=en&layout=compact" alt="barutlift" /></p>
+<p><a<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barutlift&show_icons=true&locale=en&layout=compact" alt="barutlift" /></a>p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barutlift&show_icons=true&locale=en" alt="barutlift" /></p>
 

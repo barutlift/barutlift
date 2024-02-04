@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
+<h1 align="center">Hi, Im Enes</h1>
 <h3 align="center">ml-dl</h3>
 
-- 🔭 I’m currently working on **react**
-
-- 📫 How to reach me **olimpikbarbell@gmail.com**
+- contact **olimpikbarbell@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
